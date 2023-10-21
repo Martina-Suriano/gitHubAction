@@ -5,6 +5,7 @@ int main() {
     int numero;
     int somma = 0;
 
+    cout<< "Abbiamo inserito una modifica per la pull request" << endl;
     cout << "Inserisci una sequenza di numeri interi positivi. Inserisci 0 per calcolare la somma." << endl;
 
     do {
